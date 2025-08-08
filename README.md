@@ -1,4 +1,3 @@
-# python-core
 # Python Core Practice
 
 This repo contains my Python journey from scratch — practicing syntax, logic building, and real-world exercises.
